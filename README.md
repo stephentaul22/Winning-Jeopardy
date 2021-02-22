@@ -1,3 +1,3 @@
-# Winning-Jeopardy-Guided-Project-16
+# Winning-Jeopardy
 
-This is a guided project from the Data Analyst in Python Career Path on DataQuest.io.
+This is a guided project, completed from the Data Analyst in Python Career Path on DataQuest.io.
